@@ -4,5 +4,6 @@ tmp
 .sass-cache
 .DS_Store
 .jekyll-cache
+.jekyll-metadata
 .git
 _run_locally.bat
