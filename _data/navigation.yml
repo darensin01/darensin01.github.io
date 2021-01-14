@@ -1,0 +1,11 @@
+disqus:
+  comments: true
+  disqus_shortname: 'https-darensin01-github-io'
+
+links:
+- title: Posts
+  url: /
+- title: About
+  url: /about
+- title: Search
+  url: /search

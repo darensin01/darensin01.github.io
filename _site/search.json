@@ -1,0 +1,25 @@
+[
+  
+    {
+
+      "title"    : "Automating mouseover task for HDB BTO information with bookmarklet",
+      "url"      : "/2021/01/13/bto-bookmarklet",
+      "category" : "",
+      "tags"     : "bookmarklet, automation, side-project",
+      "date"     : "2021-01-13 00:00:00 +0800",
+      "description" : "Bookmarklet for HDB BTO information"
+
+    } ,
+  
+    {
+
+      "title"    : "Hello world",
+      "url"      : "/2021/01/12/hello-world",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2021-01-12 00:00:00 +0800",
+      "description" : ""
+
+    } 
+  
+]

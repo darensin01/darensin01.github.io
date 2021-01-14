@@ -1,0 +1,6 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: true
+  disqus_shortname: 'https-darensin01-github-io'
+
+google-ID: 'UA-174192474-1'
