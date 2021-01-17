@@ -45,3 +45,5 @@ See [here](https://gist.github.com/caseywatts/c0cec1f89ccdb8b469b1) for an expla
 * You can sort the information by price, sqm, price per sqm etc.
 
 > <img src="https://github.com/darensin01/hdb-flat-selection/blob/main/screenshots/ss3.PNG?raw=true" width="350px">
+
+Let me know in the Disqus comments section below if you've used this bookmarklet, and what you think of it!
