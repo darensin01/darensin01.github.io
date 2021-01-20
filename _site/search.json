@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Extracting tables from Wikipedia using bookmarklet",
+      "url"      : "/2021/01/20/wiki-table-bookmarklet",
+      "category" : "",
+      "tags"     : "bookmarklet, automation, wikipedia, side-project",
+      "date"     : "2021-01-20 00:00:00 +0800",
+      "description" : "Bookmarklet Wiki table extraction"
+
+    } ,
+  
+    {
+
       "title"    : "Automating mouseover task for HDB BTO information with bookmarklet",
       "url"      : "/2021/01/13/bto-bookmarklet",
       "category" : "",
